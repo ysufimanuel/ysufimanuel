@@ -4,9 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 
-![...](img/banner.png)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Front%20End%20Developer;I'm%27diving%27into%20React%20and%20explor...;Based%20in%20Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubunru&pause=1000&color=1AC6F7&width=435&lines=I'm+yusuf+imanuel;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
