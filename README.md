@@ -5,7 +5,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-! [Hey, I'm Yusuf Imanuel!] (img/banner.png)
+![...](img/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Front%20End%20Developer;I'm%20diving%20into%20React%20and%20explor...;Based%20in%20Indonesia)](https://git.io/typing-svg)
 
